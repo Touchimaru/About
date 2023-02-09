@@ -29,8 +29,9 @@ p{
 
 button{
   font-size: 30px;
-  color: green;
-  background-color: black;
+  border:10px solid red;
+  color: black;
+  background-color: green;
   border-radius: 10px;
 }
 
